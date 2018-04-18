@@ -1,0 +1,4 @@
+{
+  "globalTeardown": "<rootDir>/teardown",
+  "globalSetup": "<rootDir>/setup"
+}
